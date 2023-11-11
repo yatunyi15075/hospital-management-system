@@ -23,14 +23,6 @@ The primary goal of this project is to simplify and enhance the efficiency of ho
 
 This project has no external dependencies and is developed solely in PHP.
 
-#### Installation Instructions
-
-[Provide step-by-step instructions on how to install and set up the Hospital Management System. Include any necessary configurations or prerequisites.]
-
-#### Usage
-
-[Explain how to use each login module and guide users through the different features available for each role.]
-
 #### Contributing Guidelines
 
 Contributions to the Hospital Management System project are welcome. If you want to contribute, please follow these guidelines:
@@ -42,10 +34,4 @@ Contributions to the Hospital Management System project are welcome. If you want
 
 #### License
 
-[Specify the license under which your project is released. Common licenses include MIT, Apache, or GPL.]
-
-#### Contact Information (Optional)
-
-[Include any contact information or ways for users to reach out for support or inquiries.]
-
-Feel free to add any specific details or modify as needed. Once you're satisfied with the information, you can use this as the foundation for your GitHub project's README.md file.
+license under which your project is released is under common license like Apache.
